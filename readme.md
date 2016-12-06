@@ -163,5 +163,5 @@ function CallBack(NgMap){
 Really, we're just scratching the surface of the google maps API. There are tons of things you can do and `ng-map` abstracts a lot of that functionality into directives.
 
 ## Useful Documentation
-[Google Maps API Docs](https://developers.google.com/maps/documentation/)
-[Angularjs Google Maps Docs](https://ngmap.github.io/)
+- [Google Maps API Docs](https://developers.google.com/maps/documentation/)
+- [Angularjs Google Maps Docs](https://ngmap.github.io/)
